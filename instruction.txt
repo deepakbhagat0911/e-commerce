@@ -12,3 +12,7 @@ commands for running project
 1) start backend = npm strat
 2) start client = npm strat client
 3) start both backend and client = npm run dev
+
+for admin login use following credential
+username or email:- admin@email.com
+password:- 123456
